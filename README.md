@@ -7,7 +7,4 @@ Os projetos são uma maneira de fixar os meus conhecimentos aprendidos ao longo 
 ## Codido
 ![image](https://user-images.githubusercontent.com/105546921/200168619-8ca69bf0-8a9e-4420-930a-3315558b22bf.png)
 
-## Meu modelo fisico
-<img src="https://user-images.githubusercontent.com/105546921/200169378-69f0de9c-02b9-4b31-aa07-807ef86617e8.jpg" width="400px" />
-</div>
 
